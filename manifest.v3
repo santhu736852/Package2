@@ -4,7 +4,7 @@
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
-  <value name="version">1.0</value>
+  <value name="version">2.0</value>
   <value name="name">Package2</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
